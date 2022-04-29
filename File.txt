@@ -1,2 +1,2 @@
 "Hello welcome to Git."
-Gitr is a control version 
+Git is a control version 
